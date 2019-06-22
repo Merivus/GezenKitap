@@ -1,0 +1,42 @@
+﻿
+@{
+    ViewBag.Title = "Login";
+}
+
+<h2>Login</h2>
+
+<div class="container">
+    <div class="row" style="margin-top:50px;">
+        @using (Html.BeginForm("Login", "Login", FormMethod.Post))
+        {
+            <div class="form-group">
+                <div class="row">
+                    <div class="col-md-2">
+                        <label>Kullanıcı Adı: </label>
+
+                    </div>
+                    <div class="col-md-10">
+                        <input type="text" name="username" placeholder="Kullanıcı Adı Giriniz..." class="form-control" />
+                    </div>
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="row">
+                    <div class="col-md-2">
+                        <label>Şifre: </label>
+                    </div>
+                    <div class="col-md-10">
+                        <input type="password" name="password" placeholder="Şifre Giriniz..." class="form-control" />
+                    </div>
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="row">
+                    <div class="col-md-10 col-md-offset-2">
+                        <input type="submit" value="Giriş Yap" class="form-control btn btn-success" />
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>

@@ -1,0 +1,119 @@
+﻿@model GezenKitap.DATA.Entities.ApplicationUser
+@{
+    ViewBag.Title = "GoToPayment";
+}
+
+<div class="row" style="margin-top:50px;">
+    <table border="1">
+        <thead>
+            <tr>
+                <th>Ürün Adı</th>
+                <th>Ürün Adedi</th>
+            </tr>
+        </thead>
+        <tbody>
+            @{
+                decimal toplamTutar = 0;
+                foreach (var item in ViewBag.Orders as IEnumerable<GezenKitap.DATA.Entities.Order>)
+                {
+
+                    <tr>
+                        <td>@item.Book.BookName</td>
+                        @*<td style="text-align:center;">@item.Quantity</td>*@
+                    </tr>
+                    toplamTutar += item.TotalAmount;
+
+                }
+            }
+        </tbody>
+    </table>
+    <p>
+        <strong>Toplam Tutar: @string.Format("{0:C2}", toplamTutar)</strong>
+    </p>
+    <p>
+        @Html.ActionLink("Sepetini Düzenle", "Cart", "Shopping", null, new { @class = "btn btn-warning" })
+    </p>
+
+    @if (toplamTutar > 0)
+    {
+        <hr />
+
+        using (Html.BeginForm("CompleteShopping", "Shopping", FormMethod.Post))
+        {
+            <h5>Ödeme Seçenekleri:</h5>
+            @*foreach (var item in ViewBag.PaymentTypes as IEnumerable<GezenKitap.DATA.Entities.PaymentType>)
+                {
+                    <label>
+                        <input type="radio" name="paymentType" value="@item.PayTypeID" checked />
+                        @item.TypeName
+                    </label>
+
+                    <br />
+                }*@
+
+            <hr />
+            <h5>Adres Bilgileri</h5>
+            <div class="panel panel-default">
+                <div class="panel-body">
+                    <div class="form-group">
+                        <div class="row">
+                            <div class="col-md-2">
+                                <label>Adınız: </label>
+                            </div>
+                            <div class="col-md-10">
+                                @Html.TextBoxFor(z => z.FirstName, new { @required = "required", @class = "form-control" })
+                            </div>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="row">
+                            <div class="col-md-2">
+                                <label>Soyadınız: </label>
+                            </div>
+                            <div class="col-md-10">
+                                @Html.TextBoxFor(z => z.LastName, new { @required = "required", @class = "form-control" })
+                            </div>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="row">
+                            <div class="col-md-2">
+                                <label>Adresiniz: </label>
+                            </div>
+                            <div class="col-md-10">
+                                @Html.TextAreaFor(z => z.Address, new { @required = "required", @class = "form-control", rows = "3" })
+                            </div>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="row">
+                            <div class="col-md-2">
+                                <label>Şehir: </label>
+                            </div>
+                            <div class="col-md-10">
+                                @Html.TextBoxFor(z => z.City, new { @required = "required", @class = "form-control" })
+                            </div>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="row">
+                            <div class="col-md-4">
+                                <label>Bilgilerimi Güncelle: </label>
+                            </div>
+                            <div class="col-md-8">
+                                <input type="checkbox" name="update" />
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <p>
+                <input type="submit" value="Alışverişi Tamamla" class="btn btn-success" />
+            </p>
+        }
+    }
+</div>
+
+
+
