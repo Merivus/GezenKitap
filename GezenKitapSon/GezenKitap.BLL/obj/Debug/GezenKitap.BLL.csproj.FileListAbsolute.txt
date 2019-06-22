@@ -42,3 +42,25 @@ C:\Users\Kartal Kaan Akdoğan\Documents\GitHub\GezenKitap\GezenKitapSon\GezenKit
 C:\Users\Kartal Kaan Akdoğan\Documents\GitHub\GezenKitap\GezenKitapSon\GezenKitap.BLL\obj\Debug\GezenKitap.BLL.csproj.CopyComplete
 C:\Users\Kartal Kaan Akdoğan\Documents\GitHub\GezenKitap\GezenKitapSon\GezenKitap.BLL\obj\Debug\GezenKitap.BLL.dll
 C:\Users\Kartal Kaan Akdoğan\Documents\GitHub\GezenKitap\GezenKitapSon\GezenKitap.BLL\obj\Debug\GezenKitap.BLL.pdb
+C:\Users\ASUS\Documents\GitHub\GezenKitap\GezenKitapSon\GezenKitap.BLL\bin\Debug\GezenKitap.BLL.dll.config
+C:\Users\ASUS\Documents\GitHub\GezenKitap\GezenKitapSon\GezenKitap.BLL\bin\Debug\GezenKitap.BLL.dll
+C:\Users\ASUS\Documents\GitHub\GezenKitap\GezenKitapSon\GezenKitap.BLL\bin\Debug\GezenKitap.BLL.pdb
+C:\Users\ASUS\Documents\GitHub\GezenKitap\GezenKitapSon\GezenKitap.BLL\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\Documents\GitHub\GezenKitap\GezenKitapSon\GezenKitap.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Documents\GitHub\GezenKitap\GezenKitapSon\GezenKitap.BLL\bin\Debug\GezenKitap.DAL.dll
+C:\Users\ASUS\Documents\GitHub\GezenKitap\GezenKitapSon\GezenKitap.BLL\bin\Debug\GezenKitap.DATA.dll
+C:\Users\ASUS\Documents\GitHub\GezenKitap\GezenKitapSon\GezenKitap.BLL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ASUS\Documents\GitHub\GezenKitap\GezenKitapSon\GezenKitap.BLL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ASUS\Documents\GitHub\GezenKitap\GezenKitapSon\GezenKitap.BLL\bin\Debug\GezenKitap.DAL.pdb
+C:\Users\ASUS\Documents\GitHub\GezenKitap\GezenKitapSon\GezenKitap.BLL\bin\Debug\GezenKitap.DAL.dll.config
+C:\Users\ASUS\Documents\GitHub\GezenKitap\GezenKitapSon\GezenKitap.BLL\bin\Debug\GezenKitap.DATA.pdb
+C:\Users\ASUS\Documents\GitHub\GezenKitap\GezenKitapSon\GezenKitap.BLL\bin\Debug\GezenKitap.DATA.dll.config
+C:\Users\ASUS\Documents\GitHub\GezenKitap\GezenKitapSon\GezenKitap.BLL\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\Documents\GitHub\GezenKitap\GezenKitapSon\GezenKitap.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Documents\GitHub\GezenKitap\GezenKitapSon\GezenKitap.BLL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ASUS\Documents\GitHub\GezenKitap\GezenKitapSon\GezenKitap.BLL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ASUS\Documents\GitHub\GezenKitap\GezenKitapSon\GezenKitap.BLL\obj\Debug\GezenKitap.BLL.csprojAssemblyReference.cache
+C:\Users\ASUS\Documents\GitHub\GezenKitap\GezenKitapSon\GezenKitap.BLL\obj\Debug\GezenKitap.BLL.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\GitHub\GezenKitap\GezenKitapSon\GezenKitap.BLL\obj\Debug\GezenKitap.BLL.csproj.CopyComplete
+C:\Users\ASUS\Documents\GitHub\GezenKitap\GezenKitapSon\GezenKitap.BLL\obj\Debug\GezenKitap.BLL.dll
+C:\Users\ASUS\Documents\GitHub\GezenKitap\GezenKitapSon\GezenKitap.BLL\obj\Debug\GezenKitap.BLL.pdb
