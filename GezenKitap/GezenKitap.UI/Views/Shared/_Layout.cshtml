@@ -1,0 +1,163 @@
+﻿@{
+    var x = new GezenKitap.BLL.Concrete.CategoryConcrete();
+    var lstCategory = x.CategoryRepository.GetAll();
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - GezenKitap.com</title>
+
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    <link href="~/Content/font-awesome.min.css" rel="stylesheet" />
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 20px;
+        }
+        .navbar-header:hover{
+            color:white;
+        }
+        #myBtn {
+            display: none;
+            position: fixed;
+            bottom: 20px;
+            right: 30px;
+            z-index: 99;
+            font-size: 18px;
+            border: none;
+            outline: none;
+            background-color: red;
+            color: white;
+            cursor: pointer;
+            padding: 15px;
+            border-radius: 4px;
+        }
+
+            #myBtn:hover {
+                background-color: #555;
+            }
+
+        .thumbnail img,
+        .img-thumbnail img{
+            width: 200px;
+            height: 350px;
+        }
+
+        .navbar-inverse .navbar-brand:hover, .navbar-inverse .navbar-brand:focus{
+            color: black;
+        }
+    </style>
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                @Html.ActionLink("Gezen Kitap", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+                @* <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+
+        @Html.ActionLink("Bilim ve Sanat", "Book", "Book", new { id = 1 }, new { @class = "navbar-brand" })
+        @Html.ActionLink("Çocuk", "Book", "Book", new { id = 2 }, new { @class = "navbar-brand" })
+        @Html.ActionLink("Tarih", "Book", "Book", new { id = 3 }, new { @class = "navbar-brand" })
+                *@
+            </div>
+                <div class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav">
+
+                        <li>@Html.ActionLink("Ana Sayfa", "Index", "Home")</li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Kategoriler      <span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                @*<li><a href="#">Action</a></li>*@
+                                @foreach (var item in lstCategory)
+                                {
+                                    <li>
+                                        @Html.ActionLink(item.CategoryName, "Book", "Book",
+                                            new { id = item.CategoryID },
+                                            new { @class = "navbar-brand" })
+                                    </li>
+                                }
+                                <li>
+                                    <a class="btn btn-lg btn-success"
+                                       href="@Url.Action("AddBook", "Book", new { id = Html.Value("id") })">Kitap Ekle</a>
+                                </li>
+                            </ul>
+                        </li>
+                        @if (User.Identity.IsAuthenticated)
+                        {
+                            <li>@Html.ActionLink("Kitaplarım", "MyBooks", "Book")</li>
+                        }
+
+                    </ul>
+                    @Html.Partial("_LoginPartial")
+                </div>
+            </div>
+    </div>
+    <div class="container body-content">
+        <div style="margin-top:20px;">
+            @foreach (ModelState modelState in ViewData.ModelState.Values)
+            {
+                foreach (ModelError error in modelState.Errors)
+                {
+                    <div class="alert alert-danger alert-dismissible">
+                        <button type="button" class="close" data-dismiss="alert" aria-hidden="true">×</button>
+                        @error.ErrorMessage
+                    </div>
+                }
+            }
+
+            @if (ViewBag.Success == true)
+            {
+
+                <div class="alert alert-success alert-dismissible">
+                    <button type="button" class="close" data-dismiss="alert" aria-hidden="true">×</button>
+                    Kayıt başarılı...
+                </div>
+            }
+        </div>
+            @RenderBody()
+            <button onclick="topFunction()" id="myBtn" title="Go to top">
+                <span class="glyphicon glyphicon-menu-up"></span>
+            </button>
+            <hr />
+            <footer>
+                <p>&copy; @DateTime.Now.Year - GezenKitap.com</p>
+            </footer>
+        </div>
+
+    @*<script src="~/Scripts/jquery-3.0.0.min.js"></script>*@
+    @*<script src="~/Scripts/bootstrap.min.js"></script>*@
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+
+
+
+    <script>
+        // When the user scrolls down 20px from the top of the document, show the button
+        window.onscroll = function () { scrollFunction() };
+
+        function scrollFunction() {
+            if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+                document.getElementById("myBtn").style.display = "block";
+            } else {
+                document.getElementById("myBtn").style.display = "none";
+            }
+        }
+
+        // When the user clicks on the button, scroll to the top of the document
+        function topFunction() {
+            document.body.scrollTop = 0;
+            document.documentElement.scrollTop = 0;
+        }
+    </script>
+
+</body>
+</html>

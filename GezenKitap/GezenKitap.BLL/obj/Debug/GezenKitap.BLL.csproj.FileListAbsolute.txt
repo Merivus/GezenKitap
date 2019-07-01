@@ -1,0 +1,110 @@
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.BLL\obj\Debug\GezenKitap.BLL.csprojAssemblyReference.cache
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.BLL\obj\Debug\GezenKitap.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.BLL\bin\Debug\GezenKitap.BLL.dll.config
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.BLL\bin\Debug\GezenKitap.BLL.dll
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.BLL\bin\Debug\GezenKitap.BLL.pdb
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.BLL\bin\Debug\EntityFramework.dll
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.BLL\bin\Debug\GezenKitap.DAL.dll
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.BLL\bin\Debug\GezenKitap.DATA.dll
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.BLL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.BLL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.BLL\bin\Debug\GezenKitap.DAL.pdb
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.BLL\bin\Debug\GezenKitap.DAL.dll.config
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.BLL\bin\Debug\GezenKitap.DATA.pdb
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.BLL\bin\Debug\GezenKitap.DATA.dll.config
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.BLL\bin\Debug\EntityFramework.xml
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.BLL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.BLL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.BLL\obj\Debug\GezenKitap.BLL.csproj.CopyComplete
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.BLL\obj\Debug\GezenKitap.BLL.dll
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.BLL\obj\Debug\GezenKitap.BLL.pdb
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.BLL\bin\Debug\GezenKitap.BLL.dll.config
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.BLL\bin\Debug\GezenKitap.BLL.dll
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.BLL\bin\Debug\GezenKitap.BLL.pdb
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.BLL\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.BLL\bin\Debug\GezenKitap.DAL.dll
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.BLL\bin\Debug\GezenKitap.DATA.dll
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.BLL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.BLL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.BLL\bin\Debug\GezenKitap.DAL.pdb
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.BLL\bin\Debug\GezenKitap.DAL.dll.config
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.BLL\bin\Debug\GezenKitap.DATA.pdb
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.BLL\bin\Debug\GezenKitap.DATA.dll.config
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.BLL\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.BLL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.BLL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.BLL\obj\Debug\GezenKitap.BLL.csprojAssemblyReference.cache
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.BLL\obj\Debug\GezenKitap.BLL.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.BLL\obj\Debug\GezenKitap.BLL.csproj.CopyComplete
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.BLL\obj\Debug\GezenKitap.BLL.dll
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.BLL\obj\Debug\GezenKitap.BLL.pdb
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.BLL\bin\Debug\GezenKitap.BLL.dll.config
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.BLL\bin\Debug\GezenKitap.BLL.dll
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.BLL\bin\Debug\GezenKitap.BLL.pdb
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.BLL\bin\Debug\EntityFramework.dll
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.BLL\bin\Debug\GezenKitap.DAL.dll
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.BLL\bin\Debug\GezenKitap.DATA.dll
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.BLL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.BLL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.BLL\bin\Debug\GezenKitap.DAL.pdb
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.BLL\bin\Debug\GezenKitap.DAL.dll.config
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.BLL\bin\Debug\GezenKitap.DATA.pdb
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.BLL\bin\Debug\GezenKitap.DATA.dll.config
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.BLL\bin\Debug\EntityFramework.xml
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.BLL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.BLL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.BLL\obj\Debug\GezenKitap.BLL.csprojAssemblyReference.cache
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.BLL\obj\Debug\GezenKitap.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.BLL\obj\Debug\GezenKitap.BLL.csproj.CopyComplete
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.BLL\obj\Debug\GezenKitap.BLL.dll
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.BLL\obj\Debug\GezenKitap.BLL.pdb
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.BLL\bin\Debug\GezenKitap.BLL.dll.config
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.BLL\bin\Debug\GezenKitap.BLL.dll
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.BLL\bin\Debug\GezenKitap.BLL.pdb
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.BLL\bin\Debug\EntityFramework.dll
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.BLL\bin\Debug\GezenKitap.DAL.dll
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.BLL\bin\Debug\GezenKitap.DATA.dll
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.BLL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.BLL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.BLL\bin\Debug\GezenKitap.DAL.pdb
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.BLL\bin\Debug\GezenKitap.DAL.dll.config
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.BLL\bin\Debug\GezenKitap.DATA.pdb
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.BLL\bin\Debug\GezenKitap.DATA.dll.config
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.BLL\bin\Debug\EntityFramework.xml
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.BLL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.BLL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.BLL\obj\Debug\GezenKitap.BLL.csprojAssemblyReference.cache
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.BLL\obj\Debug\GezenKitap.BLL.csproj.CoreCompileInputs.cache
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.BLL\obj\Debug\GezenKitap.BLL.csproj.CopyComplete
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.BLL\obj\Debug\GezenKitap.BLL.dll
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.BLL\obj\Debug\GezenKitap.BLL.pdb
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.BLL\bin\Debug\GezenKitap.BLL.dll.config
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.BLL\bin\Debug\GezenKitap.BLL.dll
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.BLL\bin\Debug\GezenKitap.BLL.pdb
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.BLL\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.BLL\bin\Debug\GezenKitap.DAL.dll
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.BLL\bin\Debug\GezenKitap.DATA.dll
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.BLL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.BLL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.BLL\bin\Debug\GezenKitap.DAL.pdb
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.BLL\bin\Debug\GezenKitap.DAL.dll.config
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.BLL\bin\Debug\GezenKitap.DATA.pdb
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.BLL\bin\Debug\GezenKitap.DATA.dll.config
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.BLL\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.BLL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.BLL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.BLL\obj\Debug\GezenKitap.BLL.csprojAssemblyReference.cache
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.BLL\obj\Debug\GezenKitap.BLL.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.BLL\obj\Debug\GezenKitap.BLL.csproj.CopyComplete
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.BLL\obj\Debug\GezenKitap.BLL.dll
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.BLL\obj\Debug\GezenKitap.BLL.pdb

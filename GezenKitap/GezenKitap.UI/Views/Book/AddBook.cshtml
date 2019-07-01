@@ -1,0 +1,135 @@
+﻿@model GezenKitap.DATA.Entities.Book
+@{
+    ViewBag.Title = "Kitap Ekle";
+}
+
+<div class="container">
+    <div class="row" style="margin-top:20px;">
+        <div class="col-md-4 col-md-offset-4">
+            @using (Html.BeginForm("AddBook", "Book", FormMethod.Post,
+                            new { enctype = "multipart/form-data" }))
+            {
+                @Html.HiddenFor(x => x.BookID)
+
+                <div class="form-group">
+                    <label>Kitap Adı</label>
+                    @Html.TextBoxFor(x => x.BookName, new { Required = "", @class = "form-control" })
+                </div>
+
+                <div class="form-group">
+                    <label>Yazar Adı</label>
+                    <div class="input-group">
+                        @Html.DropDownListFor(x => x.AuthorID, null, new { @class = "form-control" })
+                        <div class="input-group-btn">
+                            <a class="btn btn-success" data-toggle="modal" data-target="#AuthorModal"><i class="glyphicon glyphicon-plus"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label>Kategorisi</label>
+                    @Html.DropDownListFor(x => x.CategoryID, null, new { @class = "form-control" })
+                </div>
+                <div class="form-group">
+                    <label>Kredi Miktarı</label>
+                    @Html.TextBoxFor(x => x.CreditAmount, new { @class = "form-control", type = "number", step = 1, min = 1, max = 5 })
+                </div>
+                <div class="form-group">
+                    <label>Açıklama</label>
+                    @Html.TextAreaFor(x => x.Description, new { @class = "form-control" })
+                </div>
+                <div class="form-group">
+                    <label>Sayfa Sayısı</label>
+                    @Html.TextBoxFor(x => x.PageCount, new { @class = "form-control", type = "number", step = 1, min = 1 })
+                </div>
+                <div class="form-group">
+                    <label>Durumu</label>
+                    @Html.DropDownListFor(x => x.StatusID, null, new { @class = "form-control" })
+                </div>
+                <div class="form-group">
+                    <label>Resim</label>
+                    <input type="file" id="resim" name="resim" />
+
+                </div>
+                <div class="form-group">
+                    <label>Resim Açıklaması</label>
+                    @Html.TextBoxFor(x => x.AltText, new { @class = "form-control" })
+                </div>
+                <div class="form-group">
+                    <label>Kitap basım yılı</label>
+                    @Html.TextBoxFor(x => x.PurchaseDate, new { @class = "form-control", type = "date" })
+                </div>
+                <div class="form-group">
+                    <label>Kullanıcı Notu</label>
+                    @Html.TextAreaFor(x => x.Notes, new { @class = "form-control" })
+                </div>
+
+
+                <div class="form-group">
+                    <label></label>
+                    <button class="btn btn-success btn-lg btn-block" type="submit"><i class="glyphicon glyphicon-save"></i>Kaydet</button>
+                </div>
+
+            }
+        </div>
+
+    </div>
+</div>
+@* Modal ekledik *@
+<div class="modal" id="AuthorModal" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">Yazar Ekle</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class="form-group">
+                    <label>Yazar Adı</label>
+                    <input type="text" id="txtAuthorFirstName" class="form-control" />
+                </div>
+                <div class="form-group">
+                    <label>Yazar Soyadı</label>
+                    <input type="text" id="txtAuthorLastName" class="form-control" />
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-primary" onclick="YazarEkle();">Kaydet</button>
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Kapat</button>
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+    onload = () => {
+        $('input').click((a, b) => {
+            a.target.select();
+        })
+    };
+
+    function YazarEkle() {
+        $.ajax({
+            method: "post",
+            url: "/api/API/AddAuthor/",
+            data: {
+                FirstName: $("#txtAuthorFirstName").val(),
+                LastName: $("#txtAuthorLastName").val()
+            },
+            success: function (AuthorID) {
+                $('#AuthorID').append("<option value='" + AuthorID
+                    + "'>" + $("#txtAuthorFirstName").val() + " "
+                    + $("#txtAuthorLastName").val() + "</option>");
+                $('#AuthorID').val(AuthorID);
+                alert("Yazar eklendi!");
+
+                $("#txtAuthorFirstName").val("");
+                $("#txtAuthorLastName").val("");
+                $('#AuthorModal').modal('hide');
+            },
+            error: function () {
+                alert('Bir hata oluştu! Tekrar deneyiniz!');
+            }
+        })
+    }
+</script>

@@ -1,0 +1,28 @@
+﻿@{
+    ViewBag.Title = "Ana Sayfa";
+}
+
+<div class="container">
+    <div class="row" style="margin-top:50px;">
+
+        @{
+            foreach (var item in (IEnumerable<GezenKitap.DATA.Entities.Book>)TempData["Kitaplar"])
+            {
+                <div class="col-md-3">
+                    <div class="thumbnail">
+                        <img src="@Url.Content(item.ImageUrl)" alt="@Url.Content(item.AltText)" />
+                        <div caption="">
+                            <h4 style="height:60px; text-align:center;">
+                                @item.BookName <br /> <b>Kitabın Kredisi: @item.CreditAmount</b>
+                            </h4>
+                            
+                            <p>
+                                @Html.ActionLink("Kitaba Git", "BookDetail", "Book", new { id = item.BookID }, new { @class = "btn btn-success form-control" })
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            }
+        }
+    </div>
+</div>

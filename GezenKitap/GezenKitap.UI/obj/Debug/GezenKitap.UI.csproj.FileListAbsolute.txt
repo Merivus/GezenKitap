@@ -1,0 +1,600 @@
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\obj\Debug\GezenKitap.UI.csprojAssemblyReference.cache
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\obj\Debug\GezenKitap.UI.csproj.CoreCompileInputs.cache
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\GezenKitap.UI.dll.config
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\GezenKitap.UI.dll
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\GezenKitap.UI.pdb
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\roslyn\csc.exe
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\roslyn\csc.exe.config
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\roslyn\csc.rsp
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\roslyn\csi.exe
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\roslyn\csi.exe.config
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\roslyn\csi.rsp
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\roslyn\System.AppContext.dll
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\roslyn\System.Console.dll
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\roslyn\System.IO.Compression.dll
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\roslyn\System.Security.Claims.dll
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\roslyn\System.ValueTuple.dll
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\roslyn\vbc.exe
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\roslyn\vbc.exe.config
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\roslyn\vbc.rsp
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\Antlr3.Runtime.dll
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\EntityFramework.dll
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\EntityFramework.SqlServer.dll
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\GezenKitap.DAL.dll
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\GezenKitap.DATA.dll
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\Microsoft.Owin.dll
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\Microsoft.Owin.Security.dll
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\Newtonsoft.Json.dll
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\Owin.dll
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\System.Net.Http.Formatting.dll
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\System.Web.Helpers.dll
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\System.Web.Http.dll
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\System.Web.Http.WebHost.dll
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\System.Web.Mvc.dll
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\System.Web.Optimization.dll
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\System.Web.Razor.dll
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\System.Web.WebPages.dll
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\WebGrease.dll
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\GezenKitap.DAL.pdb
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\GezenKitap.DAL.dll.config
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\GezenKitap.DATA.pdb
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\GezenKitap.DATA.dll.config
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\System.Web.Helpers.xml
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\System.Web.Mvc.xml
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\System.Web.Optimization.xml
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\System.Web.Razor.xml
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\System.Web.WebPages.xml
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\Newtonsoft.Json.xml
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\Antlr3.Runtime.pdb
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\System.Net.Http.Formatting.xml
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\System.Web.Http.xml
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\System.Web.Http.WebHost.xml
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\EntityFramework.xml
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\EntityFramework.SqlServer.xml
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\Microsoft.Owin.xml
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\Microsoft.Owin.Security.xml
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\obj\Debug\GezenKitap.UI.csproj.CopyComplete
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\obj\Debug\GezenKitap.UI.dll
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\obj\Debug\GezenKitap.UI.pdb
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\GezenKitap.BLL.dll
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\GezenKitap.BLL.pdb
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.UI\bin\GezenKitap.BLL.dll.config
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\GezenKitap.UI.dll.config
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\GezenKitap.UI.dll
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\GezenKitap.UI.pdb
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\csc.exe
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\csc.exe.config
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\csc.rsp
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\csi.exe
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\csi.exe.config
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\csi.rsp
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.AppContext.dll
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.Console.dll
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.IO.Compression.dll
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.Security.Claims.dll
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.ValueTuple.dll
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\vbc.exe
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\vbc.exe.config
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\vbc.rsp
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\Antlr3.Runtime.dll
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\EntityFramework.dll
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\GezenKitap.BLL.dll
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\GezenKitap.DAL.dll
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\GezenKitap.DATA.dll
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.Owin.dll
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.Owin.Security.dll
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\Newtonsoft.Json.dll
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\Owin.dll
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\System.Net.Http.Formatting.dll
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\System.Web.Helpers.dll
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\System.Web.Http.dll
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\System.Web.Http.WebHost.dll
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\System.Web.Mvc.dll
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\System.Web.Optimization.dll
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\System.Web.Razor.dll
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\System.Web.WebPages.dll
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\WebGrease.dll
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\GezenKitap.BLL.pdb
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\GezenKitap.BLL.dll.config
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\GezenKitap.DAL.pdb
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\GezenKitap.DAL.dll.config
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\GezenKitap.DATA.pdb
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\GezenKitap.DATA.dll.config
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\System.Web.Helpers.xml
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\System.Web.Mvc.xml
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\System.Web.Optimization.xml
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\System.Web.Razor.xml
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\System.Web.WebPages.xml
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\Newtonsoft.Json.xml
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\Antlr3.Runtime.pdb
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\System.Net.Http.Formatting.xml
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\System.Web.Http.xml
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\System.Web.Http.WebHost.xml
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\EntityFramework.xml
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.Owin.xml
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.Owin.Security.xml
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\obj\Debug\GezenKitap.UI.csprojAssemblyReference.cache
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\obj\Debug\GezenKitap.UI.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\obj\Debug\GezenKitap.UI.csproj.CopyComplete
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\obj\Debug\GezenKitap.UI.dll
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.UI\obj\Debug\GezenKitap.UI.pdb
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\GezenKitap.UI.dll.config
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\GezenKitap.UI.dll
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\GezenKitap.UI.pdb
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\csc.exe
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\csc.exe.config
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\csc.rsp
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\csi.exe
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\csi.exe.config
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\csi.rsp
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.AppContext.dll
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.Console.dll
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.IO.Compression.dll
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.Security.Claims.dll
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.ValueTuple.dll
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\vbc.exe
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\vbc.exe.config
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\vbc.rsp
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\Antlr3.Runtime.dll
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\EntityFramework.dll
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\EntityFramework.SqlServer.dll
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\GezenKitap.BLL.dll
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\GezenKitap.DAL.dll
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\GezenKitap.DATA.dll
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.Owin.dll
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.Owin.Security.dll
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\Newtonsoft.Json.dll
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\Owin.dll
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\System.Net.Http.Formatting.dll
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\System.Web.Helpers.dll
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\System.Web.Http.dll
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\System.Web.Http.WebHost.dll
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\System.Web.Mvc.dll
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\System.Web.Optimization.dll
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\System.Web.Razor.dll
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\System.Web.WebPages.dll
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\WebGrease.dll
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\GezenKitap.BLL.pdb
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\GezenKitap.BLL.dll.config
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\GezenKitap.DAL.pdb
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\GezenKitap.DAL.dll.config
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\GezenKitap.DATA.pdb
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\GezenKitap.DATA.dll.config
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\System.Web.Helpers.xml
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\System.Web.Mvc.xml
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\System.Web.Optimization.xml
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\System.Web.Razor.xml
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\System.Web.WebPages.xml
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\Newtonsoft.Json.xml
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\Antlr3.Runtime.pdb
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\System.Net.Http.Formatting.xml
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\System.Web.Http.xml
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\System.Web.Http.WebHost.xml
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\EntityFramework.xml
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\EntityFramework.SqlServer.xml
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.Owin.xml
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.Owin.Security.xml
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\obj\Debug\GezenKitap.UI.csprojAssemblyReference.cache
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\obj\Debug\GezenKitap.UI.csproj.CoreCompileInputs.cache
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\obj\Debug\GezenKitap.UI.csproj.CopyComplete
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\obj\Debug\GezenKitap.UI.dll
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.UI\obj\Debug\GezenKitap.UI.pdb
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\GezenKitap.UI.dll.config
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\GezenKitap.UI.dll
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\GezenKitap.UI.pdb
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\csc.exe
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\csc.exe.config
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\csc.rsp
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\csi.exe
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\csi.exe.config
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\csi.rsp
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.AppContext.dll
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.Console.dll
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.IO.Compression.dll
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.Security.Claims.dll
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.ValueTuple.dll
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\vbc.exe
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\vbc.exe.config
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\vbc.rsp
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\Antlr3.Runtime.dll
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\EntityFramework.dll
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\EntityFramework.SqlServer.dll
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\GezenKitap.BLL.dll
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\GezenKitap.DAL.dll
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\GezenKitap.DATA.dll
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.Owin.dll
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.Owin.Security.dll
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\Newtonsoft.Json.dll
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\Owin.dll
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\System.Net.Http.Formatting.dll
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\System.Web.Helpers.dll
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\System.Web.Http.dll
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\System.Web.Http.WebHost.dll
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\System.Web.Mvc.dll
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\System.Web.Optimization.dll
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\System.Web.Razor.dll
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\System.Web.WebPages.dll
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\System.Web.WebPages.Razor.dll
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\WebGrease.dll
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\GezenKitap.BLL.pdb
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\GezenKitap.BLL.dll.config
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\GezenKitap.DAL.pdb
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\GezenKitap.DAL.dll.config
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\GezenKitap.DATA.pdb
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\GezenKitap.DATA.dll.config
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\System.Web.Helpers.xml
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\System.Web.Mvc.xml
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\System.Web.Optimization.xml
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\System.Web.Razor.xml
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\System.Web.WebPages.xml
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\System.Web.WebPages.Razor.xml
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\Newtonsoft.Json.xml
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\Antlr3.Runtime.pdb
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\System.Net.Http.Formatting.xml
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\System.Web.Http.xml
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\System.Web.Http.WebHost.xml
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\EntityFramework.xml
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\EntityFramework.SqlServer.xml
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.Owin.xml
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.Owin.Security.xml
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\obj\Debug\GezenKitap.UI.csprojAssemblyReference.cache
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\obj\Debug\GezenKitap.UI.csproj.CoreCompileInputs.cache
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\obj\Debug\GezenKitap.UI.csproj.CopyComplete
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\obj\Debug\GezenKitap.UI.dll
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.UI\obj\Debug\GezenKitap.UI.pdb
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\GezenKitap.UI.dll.config
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\GezenKitap.UI.dll
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\GezenKitap.UI.pdb
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\csc.exe
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\csc.exe.config
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\csc.rsp
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\csi.exe
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\csi.exe.config
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\csi.rsp
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.AppContext.dll
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.Console.dll
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.IO.Compression.dll
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.Security.Claims.dll
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.ValueTuple.dll
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\vbc.exe
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\vbc.exe.config
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\vbc.rsp
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\Antlr3.Runtime.dll
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\EntityFramework.dll
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\GezenKitap.BLL.dll
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\GezenKitap.DAL.dll
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\GezenKitap.DATA.dll
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.Owin.dll
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.Owin.Security.dll
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\Newtonsoft.Json.dll
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\Owin.dll
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\System.Net.Http.Formatting.dll
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\System.Web.Helpers.dll
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\System.Web.Http.dll
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\System.Web.Http.WebHost.dll
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\System.Web.Mvc.dll
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\System.Web.Optimization.dll
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\System.Web.Razor.dll
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\System.Web.WebPages.dll
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\WebGrease.dll
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\GezenKitap.BLL.pdb
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\GezenKitap.BLL.dll.config
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\GezenKitap.DAL.pdb
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\GezenKitap.DAL.dll.config
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\GezenKitap.DATA.pdb
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\GezenKitap.DATA.dll.config
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\System.Web.Helpers.xml
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\System.Web.Mvc.xml
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\System.Web.Optimization.xml
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\System.Web.Razor.xml
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\System.Web.WebPages.xml
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\Newtonsoft.Json.xml
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\Antlr3.Runtime.pdb
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\System.Net.Http.Formatting.xml
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\System.Web.Http.xml
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\System.Web.Http.WebHost.xml
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\EntityFramework.xml
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.Owin.xml
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.Owin.Security.xml
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\obj\Debug\GezenKitap.UI.csprojAssemblyReference.cache
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\obj\Debug\GezenKitap.UI.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\obj\Debug\GezenKitap.UI.csproj.CopyComplete
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\obj\Debug\GezenKitap.UI.dll
+C:\Users\user\Desktop\sa\GezenKitapSon KArtal\GezenKitap.UI\obj\Debug\GezenKitap.UI.pdb

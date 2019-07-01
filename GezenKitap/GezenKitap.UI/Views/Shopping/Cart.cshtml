@@ -1,0 +1,218 @@
+﻿@model IEnumerable<GezenKitap.DATA.Entities.Order>
+@{
+    ViewBag.Title = "Cart";
+
+    var isTalep =  Html.Value("id").ToString() == "2";
+
+}
+
+@if (!isTalep)
+{
+    <h2>İstekleriniz</h2>
+}
+
+@if (isTalep)
+{
+    <h2>Talep Edilenler</h2>
+}
+
+
+<div class="container">
+    <div class="row" style="margin-top:50px;">
+        <table class="table table-hover table-bordered" style="vertical-align:middle; text-align:center">
+            <thead>
+                <tr>
+                    <th style="text-align:center;">Onayla</th>
+                    <th style="text-align:center;">İptal Et</th>
+                    <th style="text-align:center;">Durum</th>
+                    <th style="text-align:center;">Kitap Görseli</th>
+                    <th style="text-align:center;">Kitap Adı</th>
+                    <th style="text-align:center;">Kitap Kredisi</th>
+                    <th style="text-align:center;">Kitabın Sahibi</th>
+                    <th style="text-align:center;">İstek Tarihi</th>
+
+                    @if (!isTalep)
+                    {
+                        <th style="text-align:center;">Telefon</th>
+                    }
+                </tr>
+            </thead>
+            <tbody>
+                @{
+                    decimal toplamTutar = 0;
+                    var db = Model;
+                    foreach (var item in Model)
+                    {
+                        toplamTutar += item.TotalAmount;
+                        <tr>
+                            @if (!isTalep)
+                            {
+                                <td style="line-height:120px;">
+                                    <a xhref="@Url.Action("SubmitFromCart", "Shopping", new { id= item.OrderID })"
+                                       onclick="SubmitFromCart('@item.OrderID');"
+                                       style="font-size:30px;">
+                                        <span class="glyphicon glyphicon-check" style="color:forestgreen;"></span>
+                                    </a>
+                                </td>
+                            }
+                            @if (isTalep)
+                            {
+                                <td style="line-height:120px;">
+                                    <a href="#" xhref="@Url.Action("SubmitFromCartTo", "Shopping", new { id= item.OrderID })"
+                                       onclick="$('#txtOrderid').val('@item.OrderID');"
+                                        data-toggle="modal" data-target="#KargoModal"
+                                       style="font-size:30px;">
+                                        <span class="glyphicon glyphicon-check" style="color:forestgreen;"></span>
+                                    </a>
+                                </td>
+                            }
+                            <td style="line-height:120px;">
+                                <a href="@Url.Action("RemoveFromCart", "Shopping", new { id= item.OrderID })" style="font-size:30px;">
+                                    <span class="glyphicon glyphicon-trash" style="color:red;"></span>
+                                </a>
+                            </td>
+                            <td>
+                                @item.State.ToString()
+                            </td>
+                            <td style="line-height:100px;">
+                                <img class="img-rounded" style="height:100px" src="@Url.Content(item.Book.ImageUrl)" alt="@Url.Content(item.Book.AltText)" />
+
+                            </td>
+                            <td style="line-height:100px;">
+                                @item.Book.BookName
+                            </td>
+                            <td style="line-height:100px;">
+                                @item.TotalAmount
+                            </td>
+                            <td>@item.Book.ApplicationUser.FirstName @item.Book.ApplicationUser.LastName</td>
+                            <td>@item.OrderDate.ToString("dd.MM.yyyy HH:mm")</td>
+                            @if (!isTalep)
+                            {
+                                <td style="line-height:100px;">@item.Book.ApplicationUser.PhoneNumber</td>
+
+                            }
+                        </tr>
+                    }
+                }
+                <tr></tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+
+
+
+
+@{
+    if (Model.ToList().Count == 0)
+    {
+        if (!isTalep)
+        {
+            <span class="lead">
+                Talep ettiğiniz bir kitap yok!
+            </span>
+        }
+
+        if (isTalep)
+        {
+            <span class="lead">
+                Sizden talep edilen bir kitap yok!
+            </span>
+        }
+
+    }
+    else
+    {
+        if (!isTalep)
+        {
+            <span>
+                <b>
+                    Tümünün onaylanması halinde tarafınızdan düşülecek toplam kredi = @toplamTutar
+                </b>
+            </span>
+        }
+
+        if (isTalep)
+        {
+            <span>
+                <b>
+                    Tümünün onaylanması halinde tarafınıza aktarılacak toplam kredi = @toplamTutar
+                </b>
+            </span>
+        }
+        
+
+        @*@Html.ActionLink("Siparişi Tamamla", "GoToPayment", "Shopping", null, new { @class = "btn btn-success", @style = "float:right;" })*@
+    }
+
+
+}
+
+<input type="hidden" id="txtOrderid"/>
+<div class="modal" id="KargoModal" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">Kargo Takip</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class="form-group">
+                    <label>Kargo Takip NO</label>
+                    <input type="text" id="txtTrackingNumber" class="form-control" />
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-primary" onclick="SubmitFromCartTo();">Kaydet</button>
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Kapat</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    
+    
+    function SubmitFromCart(orderid) {        
+        $.ajax({
+            url: '/api/API/SubmitFromCart/' + orderid,
+            method: 'post',
+            success: function (result) {
+                if (result == "OK") {
+                    alert('İşlem başarılı!');
+                    location.reload();
+                }
+                else alert(result);
+            },
+            error: function () {
+                alert('Bir hata oluştu! Lütfen daha sonra tekrar deneyiniz.');
+            }
+        })
+    }
+    
+    function SubmitFromCartTo() {
+        var orderid = $('#txtOrderid').val();
+        var trackingnumber = $('#txtTrackingNumber').val();
+
+        $.ajax({
+            url: '/api/API/SubmitFromCartTo/' + orderid + '/' + trackingnumber,
+            method: 'post',
+            //data: {
+            //    orderid: orderid,
+            //    trackingnumber: trackingnumber
+            //},
+            success: function (result) {
+                if (result == "OK") {
+                    alert('İşlem başarılı!');
+                    location.reload();
+                }
+                else alert(result);
+            },
+            error: function () {
+                alert('Bir hata oluştu! Lütfen daha sonra tekrar deneyiniz.');
+            }
+        })
+    }
+</script>

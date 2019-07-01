@@ -1,0 +1,42 @@
+﻿@using Microsoft.AspNet.Identity
+@if (Request.IsAuthenticated)
+{
+    using (Html.BeginForm("LogOff", "Account", FormMethod.Post, new { id = "logoutForm", @class = "navbar-right" }))
+    {
+    @Html.AntiForgeryToken()
+
+        var userid = User.Identity.GetUserId();
+        var ord = new GezenKitap.BLL.Concrete.OrderConcrete();
+        var istekler = ord.OrderRepository.GetAll(x=> x.ApplicationUser_Id == userid
+                    && x.State != GezenKitap.DATA.EnumsInterface.OrderState.Tamamlandi).Count();
+        var talepler = ord.OrderRepository.GetAll(x => x.Book.UserID == userid
+                            && x.State != GezenKitap.DATA.EnumsInterface.OrderState.Tamamlandi).Count();
+
+<ul class="nav navbar-nav navbar-right">
+    @*<li>
+            @Html.ActionLink("Hello " + User.Identity.GetUserName() + "!", "Index", "Manage", routeValues: null, htmlAttributes: new { title = "Manage" })
+        </li>*@
+    <li>
+        <a href="@Url.Action("Cart", "Shopping", new { id = 1 })">
+            İstekler
+            <span class="badge">@istekler</span>
+        </a>
+    </li>
+    <li>
+        <a href="@Url.Action("Cart", "Shopping", new { id = 2 })">
+            Talepler
+            <span class="badge">@talepler</span>
+        </a>
+    </li>
+    <li><a href="@Url.Action("UpdateProfile", "Account")">@User.Identity.Name </a></li>
+    <li><a href="javascript:document.getElementById('logoutForm').submit()">Çıkış Yap</a></li>
+</ul>
+    }
+}
+else
+{
+    <ul class="nav navbar-nav navbar-right">
+        <li>@Html.ActionLink("Üye Ol", "Register", "Account", routeValues: null, htmlAttributes: new { id = "registerLink" })</li>
+        <li>@Html.ActionLink("Giriş Yap", "Login", "Account", routeValues: null, htmlAttributes: new { id = "loginLink" })</li>
+    </ul>
+}

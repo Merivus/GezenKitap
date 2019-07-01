@@ -1,0 +1,115 @@
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.DATA\obj\Debug\GezenKitap.DATA.csprojAssemblyReference.cache
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.DATA\obj\Debug\GezenKitap.DATA.csproj.CoreCompileInputs.cache
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.DATA\bin\Debug\GezenKitap.DATA.dll.config
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.DATA\bin\Debug\GezenKitap.DATA.dll
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.DATA\bin\Debug\GezenKitap.DATA.pdb
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.DATA\bin\Debug\EntityFramework.dll
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.DATA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.DATA\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.DATA\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.DATA\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.DATA\bin\Debug\Microsoft.Owin.dll
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.DATA\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.DATA\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.DATA\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.DATA\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.DATA\bin\Debug\Owin.dll
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.DATA\bin\Debug\EntityFramework.xml
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.DATA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.DATA\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.DATA\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.DATA\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.DATA\bin\Debug\Microsoft.Owin.xml
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.DATA\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.DATA\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.DATA\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.DATA\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.DATA\obj\Debug\GezenKitap.DATA.csproj.CopyComplete
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.DATA\obj\Debug\GezenKitap.DATA.dll
+C:\Users\Kartal Kaan Akdoğan\source\repos\GezenKitapSon\GezenKitap.DATA\obj\Debug\GezenKitap.DATA.pdb
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.DATA\bin\Debug\GezenKitap.DATA.dll.config
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.DATA\bin\Debug\GezenKitap.DATA.dll
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.DATA\bin\Debug\GezenKitap.DATA.pdb
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.DATA\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.DATA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.DATA\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.DATA\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.DATA\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.DATA\bin\Debug\Microsoft.Owin.dll
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.DATA\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.DATA\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.DATA\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.DATA\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.DATA\bin\Debug\Owin.dll
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.DATA\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.DATA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.DATA\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.DATA\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.DATA\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.DATA\bin\Debug\Microsoft.Owin.xml
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.DATA\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.DATA\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.DATA\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.DATA\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.DATA\obj\Debug\GezenKitap.DATA.csprojAssemblyReference.cache
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.DATA\obj\Debug\GezenKitap.DATA.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.DATA\obj\Debug\GezenKitap.DATA.csproj.CopyComplete
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.DATA\obj\Debug\GezenKitap.DATA.dll
+C:\Users\user\Desktop\GezenKitapSon KArtal\GezenKitap.DATA\obj\Debug\GezenKitap.DATA.pdb
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.DATA\bin\Debug\GezenKitap.DATA.dll.config
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.DATA\bin\Debug\GezenKitap.DATA.dll
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.DATA\bin\Debug\GezenKitap.DATA.pdb
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.DATA\bin\Debug\EntityFramework.dll
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.DATA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.DATA\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.DATA\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.DATA\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.DATA\bin\Debug\Microsoft.Owin.dll
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.DATA\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.DATA\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.DATA\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.DATA\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.DATA\bin\Debug\Owin.dll
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.DATA\bin\Debug\EntityFramework.xml
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.DATA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.DATA\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.DATA\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.DATA\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.DATA\bin\Debug\Microsoft.Owin.xml
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.DATA\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.DATA\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.DATA\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.DATA\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.DATA\obj\Debug\GezenKitap.DATA.csprojAssemblyReference.cache
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.DATA\obj\Debug\GezenKitap.DATA.csproj.CoreCompileInputs.cache
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.DATA\obj\Debug\GezenKitap.DATA.csproj.CopyComplete
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.DATA\obj\Debug\GezenKitap.DATA.dll
+C:\Users\Kartal Kaan Akdoğan\Desktop\asdasd\GezenKitapSon KArtal\GezenKitap.DATA\obj\Debug\GezenKitap.DATA.pdb
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.DATA\bin\Debug\GezenKitap.DATA.dll.config
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.DATA\bin\Debug\GezenKitap.DATA.dll
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.DATA\bin\Debug\GezenKitap.DATA.pdb
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.DATA\bin\Debug\EntityFramework.dll
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.DATA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.DATA\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.DATA\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.DATA\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.DATA\bin\Debug\Microsoft.Owin.dll
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.DATA\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.DATA\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.DATA\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.DATA\bin\Debug\Newtonsoft.Json.dll
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.DATA\bin\Debug\Owin.dll
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.DATA\bin\Debug\EntityFramework.xml
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.DATA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.DATA\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.DATA\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.DATA\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.DATA\bin\Debug\Microsoft.Owin.xml
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.DATA\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.DATA\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.DATA\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.DATA\bin\Debug\Newtonsoft.Json.xml
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.DATA\obj\Debug\GezenKitap.DATA.csproj.CoreCompileInputs.cache
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.DATA\obj\Debug\GezenKitap.DATA.csproj.CopyComplete
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.DATA\obj\Debug\GezenKitap.DATA.dll
+C:\Users\t.gunes\Desktop\GezenKitapSon KArtal\GezenKitap.DATA\obj\Debug\GezenKitap.DATA.pdb

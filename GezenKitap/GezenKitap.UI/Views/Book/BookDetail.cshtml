@@ -1,0 +1,151 @@
+﻿@model GezenKitap.DATA.Entities.Book
+@{
+    ViewBag.Title = "BookDetail";
+
+}
+
+<div class="container">
+    <div class="row" style="margin-top:50px;">
+        <div class="col-md-4">
+            <div class="img-thumbnail" style="border-radius:20px;width:100%;border: none;">
+                <img src="@Url.Content(Model.ImageUrl)" alt="@Url.Content(Model.AltText)" width="100%" />
+            </div>
+        </div>
+        <div class="col-md-8">
+            <h1 style="font-weight:bold;">
+                @Model.BookName
+            </h1>
+            @{
+                for (int i = 0; i < 5; i++)
+                {
+                    <span class="glyphicon glyphicon-star" style="font-size:17pt; color:orange"></span>
+                }
+            }
+
+            <br /><br />
+            <p class="lead">
+                <strong>Yayın Tarihi:</strong> @Model.PurchaseDate
+            </p>
+            <p class="lead">
+                <strong>Sayfa Sayısı:</strong> @Model.PageCount
+            </p>
+            <p class="lead">
+                <strong>Yazarı:</strong> @Model.Author.FirstName @Model.Author.LastName
+            </p>
+            <p class="lead">
+                <strong>Sahibi:</strong> @Model.ApplicationUser.FirstName @Model.ApplicationUser.LastName
+            </p>
+            <p class="lead">
+                <strong>Durumu:</strong> @Model.Status.StatusName
+            </p>
+            <p class="lead">
+                <strong>Kredisi:</strong> @Model.CreditAmount
+            </p>
+
+            <input type="button" onclick="TalepEt();" value="Talep Et" class="btn btn-info btn-lg" />
+
+
+            <div class="" style="    margin-top: 20px;">
+                <ul class="nav nav-tabs">
+                    <li class="active">
+                        <a data-toggle="tab" href="#description">Kitap Açıklaması</a>
+                    </li>
+                    <li>
+                        <a data-toggle="tab" href="#reviews">Yorumlar</a>
+                    </li>
+
+                </ul>
+                <div class="tab-content">
+                    <div class="tab-pane fade in active" id="description" style="margin-top:20px;">
+                        @Html.Raw(Model.Description)
+                    </div>
+                    <div class="tab-pane fade" id="reviews" style="margin-top:20px;">
+                        <ul>
+                            @{
+
+                                if ((ViewData["Reviews"] as IEnumerable<GezenKitap.DATA.Entities.Review>).Count() == 0)
+                                {
+                                    <li class="list-unstyled">Bu kitapla ilgili henüz yorum yapılmamıştır!</li>
+                                }
+                                else
+                                {
+                                    foreach (var item in ViewData["Reviews"] as IEnumerable<GezenKitap.DATA.Entities.Review>)
+                                    {
+                                        <li>
+                                            <p><strong>@item.Name</strong></p>
+                                            <p>
+                                                @item.Comment
+                                            </p>
+                                        </li>
+                                    }
+                                }
+                            }
+                        </ul>
+                        @{
+                            if (User.Identity.IsAuthenticated)
+                            {
+
+                                <hr />
+                                <h4>YORUM EKLE</h4>
+                                <hr />
+                                using (Html.BeginForm("AddReview", "Book", new { id = Model.BookID }, FormMethod.Post))
+                                {
+                                    <p>
+                                        <strong> Kitabı Oyla: </strong>
+                                        <input type="number" value="5" min="1" max="5" class="form-control" name="rate" onchange="denetle(this,5)" />
+                                    </p>
+                                    <p>
+                                        @* Adının soyadının ilk harfini alabiliriz.*@
+                                        <strong>Adınız: </strong>
+                                        <input type="text" name="name" class="form-control" />
+                                    </p>
+                                    <p>
+                                        <strong>Yorumunuz: </strong>
+                                        <textarea rows="3" name="review" class="form-control"></textarea>
+                                    </p>
+
+                                    <input type="submit" class="btn btn-success form-control" value="EKLE" />
+                                }
+                            }
+                        }
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <hr />
+    <div class="row">
+
+    </div>
+</div>
+
+@section scripts {
+    <script>
+        function denetle(inputElement, maxValue) {
+            var value = $(inputElement).val();
+            if (value > maxValue)
+                $(inputElement).val(maxValue);
+
+            if (value < 0)
+                $(inputElement).val(0);
+        }
+
+
+        function TalepEt() {
+            var bookid = '@Model.BookID';
+
+            $.ajax({
+                url: '/api/API/AddToCart/' + bookid,
+                method: 'post',
+                success: function (result) {
+                    if (result == "OK") location = '@Url.Action("Cart", "Shopping", new { id = 1 })';
+                    else alert('Kitap talep etmek için online olmanız gerekiyor!');
+                },
+                error: function () {
+                    alert('Bir hata oluştu! Lütfen daha sonra tekrar deneyiniz.');
+                }
+            })
+        }
+    </script>
+}

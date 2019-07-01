@@ -1,0 +1,70 @@
+﻿@model IEnumerable<GezenKitap.DATA.Entities.Book>
+@{
+    ViewBag.Title = "Kitaplarım";
+}
+
+<div class="container">
+    <div class="row" style="margin-top:20px;">
+        <div class="col-md-8 col-md-offset-2">
+            <table class="table table-hover table-bordered table-striped">
+                <thead>
+                    <tr>
+                        <th>Kategori</th>
+                        <th>Kitap Adı</th>
+                        <th>Yazarı</th>
+                        <th>Durum</th>
+                        <th>Paylaşım</th>
+                        <th>Kredisi</th>
+                        <th>İşlemler</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>@item.Category.CategoryName</td>
+                            <td>@item.BookName</td>
+                            <td>@string.Format("{0} {1}", item.Author.FirstName, item.Author.LastName)</td>
+                            <td>@item.Status.StatusName</td>
+                            <td>@(item.IsActive ? "Paylaşılmayı Bekliyor" : "Paylaşıldı")</td>
+                            <td style="text-align:right;">@item.CreditAmount</td>
+                            <td>
+                                <button @(item.IsActive ? "" : "disabled") class="btn btn-info btn-sm" onclick="location = '@Url.Action("UpdateBook","Book",new { id=item.BookID})';"><i class="glyphicon glyphicon-edit"></i>Güncelle</button>
+                                <button @(item.IsActive ? "" : "disabled") class="btn btn-danger btn-sm" onclick="Sil(@item.BookID,'@item.BookName');"><i class="glyphicon glyphicon-remove"></i>Sil</button>
+                            </td>
+                        </tr>
+                    }
+
+                    @if (!Model.Any())
+                    {
+                        <tr style="text-align:center;">
+                            <td colspan="7">Kayıt kitap yok! Kitap eklemek için <a href="@Url.Action("AddBook")">tıklayınız!</a></td>  
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+<script>
+    function Sil(BookID, BookName) {
+        if (confirm(BookName + ' adlı kitap silinsin mi?')) {
+            $.ajax({
+                method: "post",
+                url: "/api/API/DeleteBook/" + BookID,
+                success: function (result) {
+                    if (result) {
+                        location.reload();
+                    }
+                    else {
+                        alert("İşlem başarısız!");
+                    }
+                },
+                error: function () {
+                    alert("Tekrar deneyiniz!");
+                }
+            });
+        }
+    }
+</script>

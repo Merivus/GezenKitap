@@ -1,0 +1,31 @@
+﻿@model IEnumerable<GezenKitap.DATA.Entities.Book>
+    @{
+    ViewBag.Title = "Book";
+    }
+
+    <div class="container">
+        <div class="row" style="margin-top:50px;">
+            @{
+            foreach (var item in Model)
+            {
+            <div class="col-md-3">
+                <div class="thumbnail" style="width:100%;">
+                    <img src="@Url.Content(item.ImageUrl)" alt="@Url.Content(item.AltText)" />
+                    <div caption="">
+                        <h4 style="height:60px; text-align:center;">
+                            @item.BookName <br /> <b>Kitabın Kredisi: @item.CreditAmount</b>
+                        </h4>
+                        @*<p style="height:60px;overflow:auto;">
+                            @item.ShortDescription
+                        </p>*@
+                        <p>
+                            @Html.ActionLink("Kitaba Git", "BookDetail", new { id = item.BookID }, new { @class = "btn btn-success form-control" })
+                        </p>
+                    </div>
+                </div>
+            </div>
+            }
+            }
+        </div>
+    </div>
+
